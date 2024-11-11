@@ -1,0 +1,46 @@
+name=Château félon
+weight=4
+radius=20
+carriesraid=true
+
+mindistancefromspawn=1000
+
+//Vanilla biomes
+biome=Forest
+biome=ForestHills
+biome=Taiga
+biome=TaigaHills
+biome=Roofed Forest
+biome=Roofed Forest M
+biome=ExtremeHills
+biome=ExtremeHills M
+biome=ExtremeHills+
+biome=ExtremeHills+ M
+
+//biomes o'plenty
+biome=alps
+biome=bamboo forest
+biome=boreal forest
+biome=coniferous forest
+biome=crag
+biome=dead forest
+biome=eucalyptus forest
+biome=grove
+biome=highland
+biome=maple woods
+biome=moor
+biome=mountain
+biome=ominous woods
+biome=redwood forest
+biome=shield
+biome=snowy coniferous forest
+biome=snowy forest
+biome=woodland
+
+//Modern Beta
+biome=beta forest
+biome=beta taiga
+biome=beta seasonal forest
+
+//starting buildings=
+centre=feloncastle

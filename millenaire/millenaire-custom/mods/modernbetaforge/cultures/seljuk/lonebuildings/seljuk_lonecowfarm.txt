@@ -1,0 +1,15 @@
+name=Inek Çiftliği
+weight=10
+radius=15
+
+biome=Desert
+biome=Desert M
+biome=Savanna
+biome=Savanna M
+
+//Modern Beta
+biome=beta desert
+biome=beta savanna
+
+//starting buildings=
+centre=lonecowfarm

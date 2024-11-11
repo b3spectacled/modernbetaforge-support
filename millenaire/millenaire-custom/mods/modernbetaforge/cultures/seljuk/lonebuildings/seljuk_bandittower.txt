@@ -1,0 +1,18 @@
+name=Soyguncu Kulesi
+weight=10
+radius=20
+carriesraid=true
+
+mindistancefromspawn=600
+
+biome=Desert
+biome=Desert M
+biome=Savanna
+biome=Savanna M
+
+//Modern Beta
+biome=beta desert
+biome=beta savanna
+
+//starting buildings=
+centre=bandittower

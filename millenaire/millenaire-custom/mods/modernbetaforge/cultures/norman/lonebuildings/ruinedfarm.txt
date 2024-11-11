@@ -1,0 +1,23 @@
+name=Ferme en ruine
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=Forest
+biome=Taiga
+biome=Plains
+biome=Birch Forest
+biome=Roofed Forest
+
+//biomes o'plenty
+biome=orchard
+biome=shield
+
+//Modern Beta
+biome=beta forest
+biome=beta taiga
+biome=beta plains
+biome=beta shrubland
+
+//starting buildings=
+centre=ruinedfarm

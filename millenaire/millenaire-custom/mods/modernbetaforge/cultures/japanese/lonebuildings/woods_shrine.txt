@@ -1,0 +1,20 @@
+name=Yashiro
+weight=8
+radius=10
+
+//Vanilla biomes
+biome=Taiga
+biome=Taiga M
+biome=TaigaHills
+biome=Mega Taiga
+biome=Cold Taiga
+
+//biomes o'plenty
+biome=coniferous forest
+biome=snowy coniferous forest
+
+//Modern Beta
+biome=beta taiga
+
+//starting buildings=
+centre=woods_shrine

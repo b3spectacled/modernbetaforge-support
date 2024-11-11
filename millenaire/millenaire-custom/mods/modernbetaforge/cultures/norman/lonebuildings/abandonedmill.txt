@@ -1,0 +1,27 @@
+name=Moulin abandonné
+weight=10
+radius=10
+
+//Vanilla biomes
+biome=ForestHills
+biome=Taiga
+biome=TaigaHills
+biome=Extreme Hills
+biome=Extreme Hills M
+biome=River
+biome=Sunflower Plains
+biome=Flower Forest
+
+//biomes o'plenty
+biome=coniferous forest
+biome=mountain foothills
+biome=redwood forest
+biome=seasonal forest
+biome=shield
+
+//Modern Beta
+biome=beta forest
+biome=beta taiga
+
+//starting buildings=
+centre=abandonedmill

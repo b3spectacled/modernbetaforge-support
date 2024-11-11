@@ -1,0 +1,12 @@
+name=Harabe
+weight=10
+radius=5
+
+biome=Desert
+biome=Desert M
+
+//Modern Beta
+biome=beta desert
+
+//starting buildings=
+centre=ruin
